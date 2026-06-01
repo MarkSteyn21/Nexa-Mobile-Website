@@ -12,10 +12,6 @@ export const metadata: Metadata = {
   title: "Nexa Mobile — Stay Connected. Effortlessly.",
   description:
     "Prepaid mobile with no contracts. Self-RICA, great rates, and full control from the HUGE App.",
-  icons: {
-    icon: "/favicon.png",
-    apple: "/logos/nexa-icon.png",
-  },
 };
 
 export default function RootLayout({

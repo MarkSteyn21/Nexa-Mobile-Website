@@ -30,9 +30,9 @@ export function Logo({
       <Image
         src="/logos/nexa-mobile.png"
         alt="Nexa Mobile"
-        width={180}
-        height={48}
-        className="h-10 w-auto object-contain"
+        width={220}
+        height={56}
+        className="h-11 w-auto object-contain sm:h-12"
         priority
       />
     </a>
